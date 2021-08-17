@@ -1,0 +1,34 @@
+.container{
+    width: 100%;
+    height: 100vh;
+    background-color: blue;
+}
+
+.profilePic{
+background-color: red;
+width: 25%;
+height: 15%
+}
+
+.navbar {
+    background-color: yellow;
+    width: 25%;
+    height: 15%
+}
+
+.bio {
+    background-color: purple;
+    width: 25%;
+    height: 15%
+}
+
+.projects { 
+    background-color: green;
+    width: 25%;
+    height: 15%
+}
+.contact{
+    background-color: orange;
+    width: 25%;
+    height: 15%
+}
